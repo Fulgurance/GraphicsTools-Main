@@ -1,0 +1,20 @@
+{
+  "port": "GraphicsTools-Main",
+  "name": "Dmenu",
+  "version": "5.2.0",
+  "architectures": ["x86_64"],
+  "description": "Dynamic menu for X",
+  "website": "https://tools.suckless.org/dmenu",
+  "downloadLinks": ["https://dl.suckless.org/tools/dmenu-5.2.tar.gz"],
+  "md5sums": ["fe156c095360914b9b7badf118a66c10"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "LibX11",
+      "version": "1.7.2",
+      "options": []
+    }
+  ],
+  "options": []
+}
