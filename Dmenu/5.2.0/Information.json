@@ -5,9 +5,6 @@
   "architectures": ["x86_64"],
   "description": "Dynamic menu for X",
   "website": "https://tools.suckless.org/dmenu",
-  "downloadLinks": ["https://dl.suckless.org/tools/dmenu-5.2.tar.gz"],
-  "md5sums": ["fe156c095360914b9b7badf118a66c10"],
-  "patchesLinks": [],
   "installedFiles": [],
   "dependencies": [
     {
