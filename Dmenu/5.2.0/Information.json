@@ -2,14 +2,13 @@
   "port": "GraphicsTools-Main",
   "name": "Dmenu",
   "version": "5.2.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Dynamic menu for X",
   "website": "https://tools.suckless.org/dmenu",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "GraphicsLibraries-Main",
       "name": "LibX11",
       "version": ">=1.7.2",
       "options": []
